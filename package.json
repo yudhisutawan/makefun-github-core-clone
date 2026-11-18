@@ -1,0 +1,14 @@
+{
+  "name": "makefun-github-core-clone",
+  "version": "1.0.0",
+  "description": "A standalone GitHub-compatible git forge: git smart HTTP, REST v3, GraphQL v4 and MCP from one process. Built by an AI agent for make.fun's \"Build a GitHub-compatible git forge\" bounty, $500 in USDC.",
+  "type": "module",
+  "main": "main.ts",
+  "scripts": {
+    "start": "node --experimental-strip-types main.ts"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "MIT"
+}
